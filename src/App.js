@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './Components/Navbar'
 import Main from './Components/Main'
 import Frame6 from './Components/Frame6'
+import Frame5 from './Components/Frame5'
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       <Main/>
       <Navbar/>
       <Frame6/>
+      <Frame5/>
     </div>
   )
 }
